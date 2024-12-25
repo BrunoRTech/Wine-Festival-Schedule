@@ -1,8 +1,6 @@
 # Wine Festival Schedule
 
-This project is a simple website built with **HTML** and **CSS**, created using the guide provided by Codecademy. It provides an organized and visually appealing schedule for a wine festival, showcasing event times, activities, and relevant details in a responsive layout. 
-
-This project is based on [this Codecademy project](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-learn-html-tables-6d939404-9baa-4c0a-b70b-229635097539/projects/html-wine-festival-schedule).
+This project is a simple website built with **HTML** and **CSS**, created using the guide provided by [Codecademy](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-development-foundations/tracks/fscj-22-fundamentals-of-html/modules/wdcp-22-learn-html-tables-6d939404-9baa-4c0a-b70b-229635097539/projects/html-wine-festival-schedule). It provides an organized and visually appealing schedule for a wine festival, showcasing event times, activities, and relevant details in a responsive layout.
 
 ## Features
 - **Event Schedule**: Displays a detailed timetable of festival events with descriptions.
